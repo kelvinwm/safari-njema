@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "957157142973",
+    "firebase_url": "https://safari-njema-550b5.firebaseio.com",
+    "project_id": "safari-njema-550b5",
+    "storage_bucket": "safari-njema-550b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957157142973:android:18a5269ffdefdb339122d4",
+        "android_client_info": {
+          "package_name": "com.beyondthehorizon.safarinjema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957157142973-di1c36mjghtrae7ase47eng8e2jfc5ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beyondthehorizon.safarinjema",
+            "certificate_hash": "0ab2e7b75ace267223b6c5ffe8cec8ca72b78765"
+          }
+        },
+        {
+          "client_id": "957157142973-6m8046levpvnj22mn4i1stduntf9fgdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYCMJ2PUiSQ8bE9-cZZbH65aJRDNTXzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957157142973-6m8046levpvnj22mn4i1stduntf9fgdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

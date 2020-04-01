@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Safari Njema</string>
+    <string name="verification_title">Verify your number</string>
+    <string name="verification_alert">We have sent you an SMS with a code.</string>
+    <string name="instruction_to_verify">To complete your phone number verification, please enter the 6-digit activation code.</string>
+    <string name="retry_otp">resend code? </string>
+</resources>

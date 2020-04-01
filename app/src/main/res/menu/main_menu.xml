@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/ic_add"
+        android:title="Add New Trip"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_settings"
+        android:title="Create New Trip"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_passengers"
+        android:title="View Passengers"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_logout"
+        android:title="Logout"
+        app:showAsAction="never" />
+</menu>
